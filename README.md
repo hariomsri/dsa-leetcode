@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hariomsri/dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/hariomsri/dsa-leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/hariomsri/dsa-leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hariomsri/dsa-leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/hariomsri/dsa-leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/hariomsri/dsa-leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0268-missing-number) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/hariomsri/dsa-leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/hariomsri/dsa-leetcode/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hariomsri/dsa-leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
