@@ -1,18 +1,20 @@
+// class Solution {
+//     public List<List<Integer>> subsets(int[] nums) {
+        
+//     }
+// }
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-        int n = nums.length;
-        int total = 1 << n;   // 2^n
+        ans.add(new ArrayList<>()); // empty subset
 
-        for (int mask = 0; mask < total; mask++) {
-            List<Integer> subset = new ArrayList<>();
-
-            for (int j = 0; j < n; j++) {
-                if ((mask & (1 << j)) != 0) {
-                    subset.add(nums[j]);
-                }
+        for (int i = 0; i < nums.length; i++) {
+            int size = ans.size();
+            for (int j = 0; j < size; j++) {
+                List<Integer> temp = new ArrayList<>(ans.get(j));
+                temp.add(nums[i]);
+                ans.add(temp);
             }
-            ans.add(subset);
         }
         return ans;
     }
