@@ -7,6 +7,7 @@ A collection of LeetCode question
 | [0035-search-insert-position](https://github.com/hariomsri/dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/hariomsri/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/hariomsri/dsa-leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/hariomsri/dsa-leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode question
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hariomsri/dsa-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -48,6 +50,7 @@ A collection of LeetCode question
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/hariomsri/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
