@@ -13,6 +13,7 @@ A collection of LeetCode question
 | [0268-missing-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hariomsri/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/hariomsri/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/hariomsri/dsa-leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/hariomsri/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hariomsri/dsa-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode question
 | [0035-search-insert-position](https://github.com/hariomsri/dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/hariomsri/dsa-leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/hariomsri/dsa-leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
