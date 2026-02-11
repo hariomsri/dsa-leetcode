@@ -4,6 +4,7 @@ A collection of LeetCode question
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hariomsri/dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/hariomsri/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/hariomsri/dsa-leetcode/tree/master/0078-subsets) |
@@ -66,6 +67,7 @@ A collection of LeetCode question
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hariomsri/dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hariomsri/dsa-leetcode/tree/master/0162-find-peak-element) |
