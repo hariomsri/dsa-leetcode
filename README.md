@@ -9,6 +9,7 @@ A collection of LeetCode question
 | [0078-subsets](https://github.com/hariomsri/dsa-leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hariomsri/dsa-leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hariomsri/dsa-leetcode/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode question
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hariomsri/dsa-leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hariomsri/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hariomsri/dsa-leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/hariomsri/dsa-leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/hariomsri/dsa-leetcode/tree/master/0704-binary-search) |
